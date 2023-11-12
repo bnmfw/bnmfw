@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Bernardo Borges Sandoval
+
+I'm an Undergraduate Student persuing a Computer Science Bachelors degree at [UFSC](https://ieeexplore.ieee.org/author/37089214656)
+https://ieeexplore.ieee.org/author/37089214656
+
 
 <!--
 **bnmfw/bnmfw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
