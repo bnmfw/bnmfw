@@ -6,7 +6,7 @@
 - I'm an Electronics Technician graduated at [IFSC](https://www.ifsc.edu.br/)
 
 #### Academic Acomplishments
-- I'm currently doin research in EDA about soft errors under the orientation of [Cristina Meinhardt](https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=ao) and have [published cientific papers](https://ieeexplore.ieee.org/author/37089214656) on the subject, the most prestigious on ISCAS 2023.
+- I'm currently doing research in EDA about soft errors under the orientation of [Cristina Meinhardt](https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=ao) and have [published cientific papers](https://ieeexplore.ieee.org/author/37089214656) on the subject, the most prestigious on ISCAS 2023.
 
 - I've won a national gold medal for the Brazilian Physics Olympiad for public schools in 2016 and silver medal for the Brazilian Mathematics Olympiad for public schools in 2017.
 
