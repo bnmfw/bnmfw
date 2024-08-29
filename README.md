@@ -11,3 +11,7 @@
 - I've won a national gold medal for the Brazilian Physics Olympiad for public schools in 2016 and silver medal for the Brazilian Mathematics Olympiad for public schools in 2017.
 
 - I've won second place on CADAthlon Brazil in 2022, 2023 and 2024.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnmfw&layout=compact&theme=city_lights" />
+</a>
