@@ -1,8 +1,9 @@
 ### Hi there 👋, I'm Bernardo Borges Sandoval
 
-- I'm an Undergraduate Student persuing a Computer Science Bachelors degree at [UFSC](https://ieeexplore.ieee.org/author/37089214656)
+- I'm a Master Student at [UFSC](https://ieeexplore.ieee.org/author/37089214656)
 
 #### Complementary Formation
+- I'm a Computer Sciente Bachelor at [UFSC](https://ieeexplore.ieee.org/author/37089214656)
 - I'm an Electronics Technician graduated at [IFSC](https://www.ifsc.edu.br/)
 
 #### Academic Acomplishments
