@@ -14,6 +14,7 @@ I'm a software developer with experience on Physical Design (Mainly OpenROAD) as
 
 #### Scientific Acomplishments
 - I'm currently doing research in EDA about soft errors under the orientation of [Cristina Meinhardt](https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=ao) and have [published cientific papers on conferences](https://ieeexplore.ieee.org/author/37089214656) and [journals](https://www.mdpi.com/2079-9292/14/15/3131) on the subject.
+- I have developed [Quasar](https://github.com/bnmfw/Quasar) an OS tool used to characterize electrical cells and circuits regarding radiation robustness.
 
 - I've won second place on CADAthlon Brazil in 2022, 2023 and 2024.
 
