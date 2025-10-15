@@ -3,8 +3,8 @@
 I'm a software developer with experience on Physical Design (Mainly OpenROAD) as well as a researcher with a background on soft errors.
 
 #### Academic Formation
-- I'm a currently a Master Student at [UFSC](https://ieeexplore.ieee.org/author/37089214656)
-- I'm a Computer Sciente Bachelor at [UFSC]([https://ieeexplore.ieee.org/author/37089214656](https://en.ufsc.br/)
+- I'm a currently a Master Student at [UFSC](https://en.ufsc.br/)
+- I'm a Computer Sciente Bachelor at [UFSC](https://en.ufsc.br/)
 - I'm an Electronics Technician graduated at [IFSC](https://www.ifsc.edu.br/)
 
 #### Work Experience
