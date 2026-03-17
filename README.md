@@ -9,7 +9,8 @@ I'm a software developer with experience on Physical Design (Mainly OpenROAD) as
 
 #### Work Experience
 - I've worked part time as a software developer on the [OpenROAD Project](https://github.com/The-OpenROAD-Project) for a year, with emphasis on the Pin Access step of Detailed Routing.
-- I'm currently an intern at [IMEC](https://www.imec-int.com/en) working on enabling the N2 PDK on the OS OpenROAD flow.
+- I've completed an internship at [IMEC](https://www.imec-int.com/en) in which I enabled the N2 PDK on the OS OpenROAD flow.
+- I'm currently back at the OpenROAD Project with my new found experience working on improvind Detailed Routing and enabling the OR tool on advanced nodes.
 
 #### Scientific Acomplishments
 - I'm currently doing research in EDA about soft errors under the orientation of [Cristina Meinhardt](https://scholar.google.com/citations?user=nSxMVPkAAAAJ&hl=en&oi=ao) and have [published cientific papers on conferences](https://ieeexplore.ieee.org/author/37089214656) and [journals](https://www.mdpi.com/2079-9292/14/15/3131) on the subject.
