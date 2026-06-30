@@ -4,7 +4,7 @@ I'm a software developer with experience on Physical Design (Mainly OpenROAD) as
 
 #### Academic Formation
 - I'm a currently a Master Student at [UFSC](https://en.ufsc.br/)
-- I'm a Computer Sciente Bachelor at [UFSC](https://en.ufsc.br/)
+- I'm a Computer Science Bachelor at [UFSC](https://en.ufsc.br/)
 - I'm an Electronics Technician graduated at [IFSC](https://www.ifsc.edu.br/)
 
 #### Work Experience
