@@ -19,7 +19,3 @@ I'm a software developer with experience in Physical Design (mainly OpenROAD), a
 - I developed [Quasar](https://github.com/bnmfw/Quasar), an open-source tool used to characterize standard cells and circuits with respect to radiation robustness.
 - I won second place in CADAthlon Brazil in 2022, 2023, and 2024.
 - I won a national gold medal in the Brazilian Physics Olympiad for Public Schools in 2016 and a silver medal in the Brazilian Mathematics Olympiad for Public Schools in 2017.
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnmfw&layout=compact&theme=city_lights" />
-</a>
